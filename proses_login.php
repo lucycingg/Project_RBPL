@@ -17,7 +17,7 @@ if ($data) {
 
         // dashboard berdasarkan role
         if ($data['role'] == "kontraktor") {
-            header("Location: dashboard/kontraktor.php");
+            header("Location: kontraktor/dashboard.php");
         } elseif ($data['role'] == "pengawas") {
             header("Location: dashboard/pengawas_lapangan.php");
         } elseif ($data['role'] == "koordinator") {

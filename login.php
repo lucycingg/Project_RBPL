@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Login | CV Cipta Manunggal Konsultan</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styling/css/style.css">
+    <link rel="stylesheet" href="styling/css/login.css">
 </head>
 <body>
 
